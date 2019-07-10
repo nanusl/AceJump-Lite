@@ -1,5 +1,8 @@
 ##### AceJump-Lite  
 
+- fix idea2018.3 `com.intellij.diagnostic.PluginException: "second-keystroke" attribute has invalid value for action with id=emacsIDEAs.AceJumpSelect [Plugin: me.ihxq.acejump.lite]`.
+- add build config.
+
 Simplify from [`emacsIDEAs`](https://github.com/whunmr/emacsIDEAs) and add some custom options.
 
 ![Snapshot](snapshot.png)
